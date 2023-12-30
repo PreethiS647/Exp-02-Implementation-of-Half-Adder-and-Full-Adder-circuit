@@ -58,6 +58,7 @@ Half adder
 ![image](https://github.com/PreethiS647/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313372/cf8df388-7095-4c8d-85a3-492b9b69fdaa)
 
 Full adder
+
 ![image](https://github.com/PreethiS647/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313372/1d599e5d-8a57-4b89-8670-4af18aa8557a)
 
 ### TIMING DIAGRAM
@@ -66,12 +67,14 @@ Full adder
 ### TRUTH TABLE 
 Half aader
 ![image](https://github.com/PreethiS647/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313372/7bc944f7-315e-4949-9e3f-c2284138f951)
-Full adder
 
+Full adder
 ![image](https://github.com/PreethiS647/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313372/2f212be2-ebbe-4459-9963-7ae254168df6)
+
 ### Output:
 Half adder
 ![image](https://github.com/PreethiS647/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313372/0e72adfa-f63f-4b56-b36c-6e213fe9b169)
+
 Full adder
 ![image](https://github.com/PreethiS647/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147313372/9f6876c0-fc7f-48f2-bd99-530955fa85ad)
 
